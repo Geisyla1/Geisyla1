@@ -1,6 +1,6 @@
 ## Oii! Eu sou a Geisyla Gonçalves Lima 👋
 - 📚 Atualmente sou estudante de Análise e Desenvolvimento De Sistemas no IFNMG-Campus Almenara 
-- 📢 Em busca de um estágio como Dev front-end.
+- 📢 Em busca de um estágio como Dev front-end
 - 📖 Estudando html5, Css3 e javascript.
 - 🐘 Estudando PHP.
 
