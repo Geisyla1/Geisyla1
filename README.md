@@ -1,7 +1,7 @@
 ## Oii! Eu sou a Geisyla Lima 👋
 - 📚 Atualmente sou estudante de Análise e Desenvolvimento De Sistemas no IFNMG-Campus Almenara 
 - 📖 Estudando html5, Css3 e javascript.
-- 📖 Estudando  C#  e  .NET .
+
 <div>
   <a href="https://github.com/Geisyla1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Geisyla1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
